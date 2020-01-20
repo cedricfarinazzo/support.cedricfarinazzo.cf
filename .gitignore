@@ -93,3 +93,4 @@ db.sqlite3
 *local_conf.py
 
 venv
+media
